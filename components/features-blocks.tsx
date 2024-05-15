@@ -39,57 +39,8 @@ export default function FeaturesBlocks() {
 
             {/* 1st item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage1} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Aleo</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage2} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Berachain</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage3} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Celestia</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage4} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Kopi</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage5} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Lava</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage6} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Mantra</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
-              <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage7} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Quasar</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
-
-            {/* 1st item */}
-            <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage8} width={75} height={75} alt="Testimonial 01" />
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Warden</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Aleo</h4>
               <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
 
