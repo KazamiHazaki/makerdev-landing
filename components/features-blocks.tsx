@@ -34,14 +34,12 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage} width={75} height={75} alt="Testimonial 01" />
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Initia</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
 
             {/* 1st item */}
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <Image className="w-16 h-16 p-1 -mt-1 mb-2 relative rounded-full" src={TestimonialImage8} width={75} height={75} alt="Testimonial 01" />
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Aleo</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
 
 
